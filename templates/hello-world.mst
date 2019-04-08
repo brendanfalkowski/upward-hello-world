@@ -4,6 +4,7 @@
 
 {{> templates/open-body}}
 
-    <h1>Hello Template World!</h1>
+<div id="root">Loading...</div>
+<script defer src="/js/app.js"></script>
 
 {{> templates/close-document}}

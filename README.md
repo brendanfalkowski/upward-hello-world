@@ -8,5 +8,5 @@ Tutorial: [https://magento-research.github.io/pwa-studio/tutorials/hello-upward/
 
 ```javascript
 yarn install
-node server.js
+npx webpack && node server.js
 ```
