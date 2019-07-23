@@ -7,7 +7,7 @@
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
-    "@magento/upward-js": "^2.1.0",
+    "@magento/upward-js": "^2.2.0",
     "babel-loader": "^8.0.6",
     "express": "^4.17.1",
     "react": "^16.8.6",
